@@ -1,4 +1,4 @@
-### Hi there 👋
+[![遥遥领先](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E4%BB%8A%E5%A4%A9%E5%8F%88%E6%98%AF%E6%8C%960day%E7%9A%84%E4%B8%80%E5%A4%A9;print(%22%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88!%22))](https://git.io/typing-svg)
 
 <!--
 **anian80/anian80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
